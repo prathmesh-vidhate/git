@@ -1,0 +1,21 @@
+pie chart/donut chart
+	1 categorical
+		should have less than 5 subcategory
+	1 numarical
+		
+	
+funnel/tree chart
+	1 categorical
+		should have more than 5 subcategory
+	1 numerical
+
+stacked bar chart / column
+cluster bar / column
+100% stacked bar / column
+	2 categorical
+	1 numerical
+map & filled map
+	1 categorical
+	1 numerical
+guage , card , multirow card
+	1 numerical
